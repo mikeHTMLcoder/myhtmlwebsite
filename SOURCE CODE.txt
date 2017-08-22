@@ -1,4 +1,723 @@
-Hey you are very smart! Nothing here yet, check back soon!
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<FRIEND PAGE CODE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-
+-
+-
+-
+-
+-
 
 
-Last updated August 18, 2017 @ 12:08:25 PM
+<HTML>
+<HEAD> <TITLE>My friend</TITLE> </HEAD>
+<BODY>
+
+<BODY BGCOLOR=lime>
+
+I can type whatever I like here, and it will be displayed on my web page.
+
+<BR><CENTER>My friends are cool</CENTER>
+<P>Whats up?
+<BLOCKQUOTE>Hello this is my paragraph. To find out the rare story of the tree octopus, keep reading. It is a very long story about nothing, no one, never, and no light. There is nothing nowhere to be seen, heard, smelled or touched. There are no people, living things, or air. Nothing, nowhere, no one. This paragraph is a sample so might as well make an interesting intro instead of the usual "Lorem ipsum dolor" garbage to waste 30 seconds of your life :)</BLOCKQUOTE>
+<BR>
+<MARQUEE BGCOLOR="aqua">My friend Stas is very nice!</MARQUEE>
+<P>
+
+<MARQUEE BGCOLOR="red" DIRECTION=RIGHT>Now on to my friends paragraph :)</MARQUEE>
+<BLOCKQUOTE>I have many friends. One of my old frineds name is Stas. He is a great friend, he helps out everyone whenever they need help. He is also generous, trustworthy, and forgiving. Stas is a great friend to have and I'm glad we have been friends for over a year. Stas and I both like to keep fish and aquariums, and he is training to become a pilot in college now. Next time I visit him, he will give me a flight on his propeller plane!</BLOCKQUOTE>
+<CENTER><H1> Now time for headings. This one is the largest. </H1></CENTER>
+<CENTER><H2> This heading is medium sized. </H2></CENTER>
+<CENTER><H3> This is the smallest heading on the page. <H3></CENTER>
+<BR>
+<B>This text is bold</B>
+<BR>
+<I>This text is italic</I>
+<BR>
+<U>This text is underlined</U>
+<BR>
+<B><U><I>This text is all of the above.</B></U></I>
+<P>
+<FONT SIZE=7>This font is large.</FONT>
+<P>
+<FONT SIZE=1>This font is small.</FONT>
+<P>
+<FONT FACE="courier">This text is in courier font.</FONT>
+
+
+<P>
+
+
+<CENTER>
+<TABLE border=1>
+
+<TR>
+
+<TD>
+My Friend's Favorite Foods
+</TD>
+<TD>
+<CENTER><IMG SRC="burger.png" width=60 height=40></CENTER>
+</TD>
+<TD>
+<CENTER><IMG SRC="borscht.jpg" width=60 height=40></CENTER>
+</TD>
+</TR>
+
+<TR>
+<TD>
+My Friend's Hobbies
+</TD>
+<TD>
+<CENTER><IMG SRC="clownfish.jpg" width=60 height=40></CENTER>
+</TD>
+<TD>
+<CENTER>Flying his plane</CENTER>
+</TD>
+</TR>
+
+<TD>
+My Friend's Pets
+</TD>
+<TD>
+<CENTER><IMG SRC="cat.jpg" width=60 height=50></CENTER>
+</TD>
+<TD>
+<CENTER><IMG SRC="jewelcichlid.jpg" width=60 height=42></CENTER>
+</TD>
+</TR>
+
+<TD>
+My Friend's Favorite Sports
+</TD>
+<TD>
+<CENTER>Air Hockey</CENTER>
+</TD>
+<TD>
+<CENTER><IMG SRC="basketball.jpg" width=66 height=42></CENTER>
+</TD>
+</TR> 
+
+
+</TABLE>
+</CENTER>
+
+
+
+
+
+
+
+
+<FONT SIZE=7>Sample Table Layout that you can use.</FONT>
+
+<TABLE border=1>
+
+<TR>
+
+<TD>
+Contents of the first cell, 1st row go here
+</TD>
+<TD>
+Contents of the second cell go here
+</TD>
+<TD>
+Contents of the third cell go here
+</TD>
+</TR> 
+
+<TR>
+<TD>
+Contents of the first cell, 2nd row go here
+</TD>
+<TD>
+Contents of the second cell, 2nd row, go here
+</TD>
+<TD>
+Contents of the third cell, 2nd row, go here
+</TD>
+</TR>
+
+<TD>
+Contents of the first cell, 3rd row go here
+</TD>
+<TD>
+Contents of the second cell go here
+</TD>
+<TD>
+Contents of the third cell, 3rd row, go here
+</TD>
+</TR>
+
+<TD>
+Contents of the first cell, 4th row go here
+</TD>
+<TD>
+Contents of the second cell go here
+</TD>
+<TD>
+Contents of the third cell, 4th row, go here
+</TD>
+</TR>
+
+<TD>
+Contents of the first cell, 5th row go here
+</TD>
+<TD>
+Contents of the second cell go here
+</TD>
+<TD>
+Contents of the third cell, 5th row, go here
+</TD>
+</TR>
+
+
+</TABLE>
+
+
+
+
+
+<P>
+<A HREF="mypage.htm">Click to continue on to My Page which talks about my personality and Habbits</A>
+<BR>
+<A HREF="index.htm">Back to the Index</A>
+<P>
+
+</BODY> 
+</HTML>
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<END FRIEND PAGE CODE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-
+-
+-
+-
+-
+-
+-
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<INDEX PAGE CODE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<HTML>
+<HEAD><TITLE>WELCOME-INDEX</TITLE></HEAD>
+<BODY>
+
+<BODY LINK=red>
+<BODY VLINK=lime>
+<BODY TEXT=AQUA>
+<BODY BGCOLOR="#994020">
+<BODY BACKGROUND="sunbeam.jpg">
+
+
+<IMG SRC="welcome.png" align=right width=800 height=450 vspace=60>
+
+<CENTER>
+
+
+<H2>Hey Whats Up? WELCOME TO MY FIRST HTML WEBSITE!</H>
+<BR><H4> My name is Michael. I live in Elk Grove California. I just finished making a web site for you all to see!</H>
+<BR>
+<P>
+<A HREF="friend.htm">Read about my friend Stas</A>
+<P>
+<A HREF="mypage.htm">Read about my Personality</A>
+<P>
+<A HREF="mypics.htm">Images of what I like to do</A>
+<P>
+<A HREF="patterns.htm">Cool Line Pattern</A>
+<P>
+<A HREF="poem.htm">Read my poem about Luke</A>
+
+<BR>
+<FONT size=1> Click on the picture below for something random</FONT>
+<P>
+<A HREF="mypage.htm"><IMG SRC="clickbait.jpg" width=100 height=60 allign=bottom></A>
+<BR>
+
+
+
+
+<a href="file:///H:/Comp%202/Int7%20-%20Web%20Pages/HTML%20work/SOURCE%20CODE.txt" download="filename">Click here to download the source code for all the websites to make your own.</a>
+<P>
+<a href="https://github.com/mikeHTMLcoder/myhtmlwebsite">Click here to view the source code and all the images (better option).</a>
+<BR>
+<FONT size=1> **********NOTE THAT THIS CODE IS NOT COPYRIGHT BUT INCLUDED IMAGE TAGS WILL NOT WORK, BECAUSE IMAGES AREN'T INCLUDED**********</FONT>
+<P>
+<FONT size=1> **********TO ENABLE IMAGES, PUT THEM IN THE SAME FOLDER AS THE CODE AND MAKE SURE NAMES ARE CORRECT**********</FONT>
+<BR>
+<A HREF="mailto:lolcomicz.56@gmail.com">Email Feedback by clicking here.</A>
+<P>
+or
+<P>
+<A HREF="mailto:lolcomicz.56@gmail.com"><IMG SRC="email.png" width=100 height=100
+ allign=bottom></A>
+
+</CENTER>
+</BODY>
+</BODY> 
+</HTML>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<END INDEX PAGE CODE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-
+-
+-
+-
+-
+-
+-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<MY PAGE.HTM CODE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-
+-
+-
+-
+-
+-
+-
+
+<HTML>
+<HEAD><TITLE>I Type My Title Here</TITLE></HEAD>
+<BODY>
+<BODY LINK=fuchsia VLINK=aqua>
+
+
+<BODY BGCOLOR=black>
+<FONT COLOR=white>
+
+<HR align=left width=50%>
+
+<FONT COLOR="#D9D919"><H2><FONT FACE="Arial Rounded MT Bold">My 5 Most Annoying Habbits</H2></FONT></FONT>
+
+
+<UL>
+
+<LI>Not going to bed on time.
+<LI>Procrastinating on my homework.
+<LI>Not listening to my parents.
+<LI>Not doing maintanence to things before they break.
+<LI>Getting distracted in class.
+
+</UL>
+
+<HR ALIGN=LEFT WIDTH=50%>
+
+<FONT COLOR="#D9D919"><H2><FONT FACE="Harlow Solid Italic">My 5 Favorite Hobbies</H2></FONT></FONT>
+
+<OL>
+
+
+<LI>Keeping Fish.
+<LI>Riding My Bicycle.
+<LI>Growing aquatic plants.
+<LI>Building/Modding Computers.
+<LI>Skateboarding.
+
+</OL>
+
+<HR ALIGN=LEFT WIDTH=50%>
+
+
+
+
+<FONT COLOR="#D9D919"><H2><FONT FACE="Impact">External Websites that may interest you :)</H2></FONT></FONT>
+<A HREF="http://vladnatureart.com/">Click here to check out my friend's painting website where he posts pictures of his watercolor paint</A>
+<P>
+<A HREF="https://github.com/mikeHTMLcoder/myhtmlwebsite">This is a link to this websites code in GitHub</A>
+<P>
+<A HREF="https://www.google.com/">This is a link to Google, my favorite search engine.</A>
+
+
+<HR ALIGN=LEFT WIDTH=50%>
+
+<FONT COLOR="#D9D919"><H2><FONT FACE="Elephant">Jobs</H2></FONT></FONT>
+
+<UL>
+
+
+
+<LI>Monday
+<OL>
+<LI> Clean Room
+<LI>Feed Fish
+</OL>
+
+<LI>Tuesday
+<OL>
+<LI> Do homework
+<LI> Excercize
+</OL>
+
+<LI> Wednesday
+<OL>
+<LI> Cook Dinner
+<LI> Software updates
+<IMG SRC="printer1.gif">
+</OL>
+
+<LI> Thursday
+<OL>
+<LI> Mop floor
+<LI>Clean office
+<LI>Go to tutoring
+</OL>
+
+<LI>Friday
+<OL> 
+<LI> Videogames
+<LI> Go to club
+<LI> Maintanence
+</OL>
+
+<LI>Saturday
+<OL>
+<LI> Mow Lawn
+<LI> Check Mail
+</OL>
+
+<LI> Sunday
+<OL>
+<LI> Do homework
+</OL>
+
+
+</UL>
+
+<HR WIDTH=50%>
+
+
+
+
+
+
+
+
+<CENTER>
+
+
+
+<TABLE cellspacing=8 cell border=10 bgcolor=yellow>
+</CENTER>
+<TD colspan=4><CENTER> My 4 favorite heroes and why!</CENTER></TD>
+</CENTER>
+
+
+<TR>
+
+<TD>
+Superman
+</TD>
+<TD>
+1) Extrememly strong
+</TD>
+<TD>
+2) He can fly
+</TD>
+<TD>
+He is one of my favorites because he is indestructable.
+</TD>
+</TR> 
+
+<TR>
+<TD>
+Spiderman
+</TD>
+<TD>
+1) Very Cunning
+</TD>
+<TD>
+2) Can shoot and pull huge spiderwebs anywhere.
+</TD>
+<TD>
+He doesn't have many special abilities, but he is very smart and wins.
+</TD>
+</TR>
+
+<TD>
+Percy Jackson
+</TD>
+<TD>
+1) He has special salt water powers.
+</TD>
+<TD>
+2) Can control the ocean, breathe undewater in it.
+</TD>
+<TD>
+Percy is an ordinary kid who is a demigod, half human and half greek god. He has cool special powers.
+</TD>
+</TR>
+
+<TD>
+Human Torch
+</TD>
+<TD>
+1) He is 2nd most powerful member of fantastic four
+</TD>
+<TD>
+2) Can manipulate fire and go on fire, and FLY
+</TD>
+<TD>
+I love the flying ability and always dreamed of it. Also burning things is very cool!
+</TD>
+</TR>
+
+
+</TABLE>
+
+<HR WIDTH=70%>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<END MY PAGE.HTM CODE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-
+-
+-
+-
+-
+-
+-
+-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<MY PICS CODE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-
+-
+-
+-
+-
+-
+
+
+<HTML>
+<HEAD> <TITLE>My Awesome Pictures!</TITLE> </HEAD>
+<BODY>
+
+<FONT SIZE=5><FONT COLOR="#FFFFF">A small, 10 gallon Planted Aquarium from my collection.</FONT></FONT>
+
+<BR>
+
+<IMG SRC="DSC00055.JPG" align=under width=400 height=300 vspace=60>
+
+<BLOCKQUOTE><FONT FACE="comic sans ms">	This is my planted 10 gallon aquarium. That I created out of some free glass that I got off chragslist and spare parts. I had a filter lying around and found the glass rims for free on a curb. Why not set up another aquarium? At the time, I was very interested in nano, or small planted aquariums that are made to just show off the beauty of plants. It is set up and running now and I will be purchasing blue shrimp to keep in it as soon as they are shipped into my local aquarium shop. It has 3 mystery snails that live in it that I got from my other frined in Maine. He is also the one who sent me the driftwood in the aquarium that you can see has moss planted on it. So far I have 6 plant species in this aquarium, but hope to increase it to 8 in the near future once I install a Carbon Dioxide sistem.</BLOCKQUOTE></FONT>
+
+<P>
+
+
+
+<HR WIDTH=100%>
+
+<p align="right"><FONT SIZE=5><FONT COLOR="#FFFFF">This is me riding a dirt bike on my 2015 summer trip to Maine.</FONT></FONT></p>
+
+<IMG SRC="dirtbike.jpg" align=right width=400 height=300 vspace=0>
+
+<BR>
+<P>
+<BR>
+<P>
+<BLOCKQUOTE><FONT FACE="comic sans ms"><FONT COLOR="#39FF14">I had a great vacation last summer. This is a picture of when I was visiting my relatives in Maine and my cousin let me use his dirt bike. It goes very fast, almost up to 25 miles per hour and has a very powerfull engine. We took it to an old dirt bike racing place where there were hills of sand and dirt everywhere that you could do stunts on. It was a great, memorabe experience riding around on a fast bike. I am considering purchasing one but certain models are illegal in California because of emissions regulations. Still, owning a dirt bike and riding it is extremely fun!</BLOCKQUOTE></FONT></FONT>
+
+<P>
+<BR>
+
+<BODY BACKGROUND="TECH.JPG">
+
+<P>
+<A HREF="patterns.htm">Click to continue on to My Pattern that I made by coding lines.</A>
+<BR>
+<A HREF="index.htm">Back to the Index</A>
+<P>
+
+</BODY> 
+</HTML>
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<END MY PICS CODE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-
+-
+-
+-
+-
+-
+-
+-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<PATTERNS CODE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-
+-
+-
+-
+-
+-
+
+
+<HTML>
+<HEAD><TITLE>Time is running out...</TITLE></HEAD>
+<BODY>
+
+<HR WIDTH=1000>
+<HR WIDTH=950>
+<HR WIDTH=900>
+<HR WIDTH=850>
+<HR WIDTH=800>
+<HR WIDTH=750>
+<HR WIDTH=700>
+<HR WIDTH=650>
+<HR WIDTH=600>
+<HR WIDTH=550>
+<HR WIDTH=500>
+<HR WIDTH=450>
+<HR WIDTH=400>
+<HR WIDTH=350>
+<HR WIDTH=300>
+<HR WIDTH=250>
+<HR WIDTH=200>
+<HR WIDTH=150>
+<HR WIDTH=100>
+<HR WIDTH=50>
+<HR WIDTH=20>
+<HR WIDTH=3>
+<HR WIDTH=20>
+<HR WIDTH=50>
+<HR WIDTH=100>
+<HR WIDTH=150>
+<HR WIDTH=200>
+<HR WIDTH=250>
+<HR WIDTH=300>
+<HR WIDTH=350>
+<HR WIDTH=400>
+<HR WIDTH=450>
+<HR WIDTH=500>
+<HR WIDTH=550>
+<HR WIDTH=600>
+<HR WIDTH=650>
+<HR WIDTH=700>
+<HR WIDTH=750>
+<HR WIDTH=800>
+<HR WIDTH=850>
+<HR WIDTH=900>
+<HR WIDTH=950>
+<HR WIDTH=1000>
+
+<BODY BGCOLOR="#008B8B">
+
+<P>
+<A HREF="poem.htm">Click to continue on to My Poem that has fictional characters Luke and Sarah</A>
+<BR>
+<A HREF="index.htm">Back to the Index</A>
+<P>
+
+</BODY> 
+</HTML>
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<END PATTERNS CODE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-
+-
+-
+-
+-
+-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<POEM CODE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-
+-
+-
+-
+-
+-
+-
+
+
+<HTML>
+<HEAD> <TITLE>My Amazing Poem</TITLE> </HEAD>
+<BODY>
+
+<body link="red">
+<font color="yellow">
+<vlink color="red">
+
+
+
+<P>
+<H1> Dear Sarah, </H1>
+<P>
+<FONT FACE="Impact">My love for Sarah is so great,</FONT>
+<BR>
+<FONT FACE="Impact">my heart melts for Her 'til the dusk of day.</FONT>
+<BR>
+<FONT FACE="Harlow Solid Italic">The night sails when she's away</FONT>
+<BR>
+<FONT FACE="Harlow Solid Italic">running, breathes 'til day's dawn.</FONT>
+<P>
+<FONT FACE="comic sans ms">Her beauty is great,</FONT>
+<BR>
+<FONT FACE="comic sans ms">Wondering mind 'til Her sees,</FONT>
+<BR>
+<FONT FACE="comic sans ms">thinking is all I do,</FONT>
+<BR>
+<FONT FACE="comic sans ms">While waiting for the moment, for Her to say "I do."</FONT>
+<P>
+<FONT FACE="comic sans ms"><I>Yours truly,</I></FONT>
+<P>
+<FONT FACE="comic sans ms"><B><CENTER>Luke</CENTER></B></FONT>
+
+<BODY BGCOLOR=blue>
+
+
+<CENTER><IMG SRC="rose.jpg" width=200 height=200></CENTER>
+
+<P>
+<A HREF="friend.htm">Click to go back to the first page, called Friend.</A>
+<BR>
+<A HREF="index.htm">Back to the Index</A>
+<P>
+
+</FONT>
+
+
+</body>
+</BODY> 
+</HTML>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<END POEM CODE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<END ALL CODE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Click here to read about <A HREF="friend.htm">My great friend Stas.</A>
+<P>
+<A HREF="friend.htm"><IMG SRC="clickbait.jpg" width=200 height=160></A>
+<A HREF="poem.htm"><IMG SRC="poetry.jpg" width=200 height=160></A>
+<P>
+Click <A HREF="poem.htm">here</A> to read my poem about Luke.
+
+<P>
+<A HREF="mypics.htm">Click to continue on to My Pictures which show what I like to do and where I went in the Summer of 2015.</A>
+<BR>
+<A HREF="index.htm">Back to the Index</A>
+<P>
+
+<HR align=right width=70%>
+
+</BODY>
+</BODY> 
+</HTML>
+
+
+
+
+Last updated August 22, 2017 @ 12:54:50 PM
